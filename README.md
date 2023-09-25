@@ -1,3 +1,3 @@
 # Qubo_smart_switch_security_assessment
 This repository contains the the security vulnerabilities identified for Qubo smart switch. The CVE has been requested to MITRE.
- Please refer the attached PDF file above for CVE Request ID CVE-2023-36161, CVE-2023-36160
+The vulnerabilites has been assigned to Yashodhan Mandke for discovery and research of vulnerabilites in Wi-Fi and IoT Hardware
